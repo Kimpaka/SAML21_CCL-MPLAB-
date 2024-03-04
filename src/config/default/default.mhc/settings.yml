@@ -1,0 +1,13 @@
+configName: default
+folderName: ccl_test_l21
+format_version: v1.0
+frameworkPath: C:\microchip\harmony_framework
+processor: ATSAML21J18B
+projectName: ccl_test_l21
+settings:
+  PackageFilter: ''
+  FORCE_OPTIMIZATION: 'false'
+  GENERATE_BACKUP: 'true'
+  TRUSTZONE: 'false'
+  MERGE_STRATEGY: USER_ALL
+  DFPPath: SAML21_DFP\3.7.217

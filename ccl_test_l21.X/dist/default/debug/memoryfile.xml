@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+  <executable name="dist/default/debug/ccl_test_l21.X.debug.elf">
+    <memory name="program">
+      <units>bytes</units>
+      <length>262144</length>
+      <used>1002</used>
+      <free>261142</free>
+    </memory>
+    <memory name="data">
+      <units>bytes</units>
+      <length>32768</length>
+      <used>116</used>
+      <free>32652</free>
+    </memory>
+  </executable>
+</project>
